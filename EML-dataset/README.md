@@ -1,11 +1,11 @@
 
 **用于EML的CHB-MIT数据集的预处理过程
 
-***1. 下载数据集
+## 数据集下载
 https://physionet.org/content/chbmit/1.0.0/
 放在\dataset\eeg\data\raw_data文件夹下
 
-***2. 数据预处理
+## 数据处理说明
 
 **Requirements**
 + python 3.8
