@@ -5,7 +5,8 @@
 
 数据集必须在`readme.md`中注明数据集名称、出处、下载地址等信息，并提供运行命令。
 
-部分数据集链接</br>
+部分数据集链接，包括：</br>
+2view-caltech101-8677sample、animal、BBC4view_685、Caltech101-20、cub_googlenet_doc2vec_c10、handwritten、HMDB51_HOG_MBH、MSRA_6view、NUSWIDEOBJ、ORL_mtv、PIE_face_10、Reuters、scene15_mtv、yale、yaleB</br>
 链接：https://pan.baidu.com/s/1tH_yt8fg6cyBqsl4J5dS8A </br>
 提取码：1234 
 
